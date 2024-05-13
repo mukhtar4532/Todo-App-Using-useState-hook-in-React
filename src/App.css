@@ -1,0 +1,27 @@
+.headingUpdate{
+  font-weight: 700;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+
+input{
+  width: 100%;
+}
+
+.item-container{
+  text-align: left;
+}
+
+.buttonUpdate{
+  min-width: 80px;
+}
+
+.rowMod{
+  margin: 10px 7px;
+}
+
+.welcome{
+  font-weight: 600;
+  font-size: 25px;
+}
